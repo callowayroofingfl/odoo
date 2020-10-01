@@ -1,5 +1,5 @@
 [submodule "callowayroofingfl/crllcaddons"]
 	path = callowayroofingfl/crllcaddons
 	url = git@github.com:callowayroofingfl/crllcaddons.git
-	branch = master
+	branch = odoo.staging.wo.mo.kanban
 
